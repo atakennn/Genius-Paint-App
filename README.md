@@ -25,7 +25,7 @@ I am Yury the Conqueror and a hater of havin wet socks
 
 ## Mangas
 
-![My Image](./pallet/jiraya.jpg)
+![My Image](./jiraya.jpg)
 
 | # | Title | Volumes | Read/seen |
 |---|---|---|---|
