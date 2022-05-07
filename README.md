@@ -8,7 +8,7 @@ I am Yury the Conqueror and a hater of havin wet socks
 
 ### Likes
 - To eat
-- To sleap
+- To sleep
 
 ### Dislikes
 - Brown Banana(idk how someone can be happy of it)
