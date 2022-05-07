@@ -34,6 +34,7 @@ I am Yury the Conqueror and a hater of havin wet socks
 
 ## What to do from now?
 ~~to be broke~~
+:/
 
 
 
